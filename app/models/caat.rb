@@ -1,0 +1,2 @@
+class Caat < ApplicationRecord
+end
